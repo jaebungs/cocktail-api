@@ -1,0 +1,199 @@
+{
+    "cocktail": [
+        {
+        "id": 0,
+        "name": "Negroni Cocktail",
+        "ingredients": ["1oz Dry Gin", "1oz Red Bitter Liqueur", "1oz Martini Rosso Sweet Vermouth"],
+        "Instruction": "Pour all into ice-filled glass and stir",
+        "garnish": "Orange wedge or orange zest twist"
+        },{
+            "id": 2,
+            "name": "Southside Rickey",
+            "ingredients": ["2oz Dry Gin","1oz Lime Juice", "3/4oz Suger syrub (2 sugar to 1 water)", "5 Mint leaves", "1 1/3oz Soda Water"],
+            "Instruction": "Shake all except soda water with ice. Strain into ice-filled glass then top with soda.",
+            "garnish": "Lime and mint sprigs"
+        },{
+            "id": 3,
+            "name": "Bee's Knees",
+            "ingredients": ["2 ounces Gin",
+                ".75 ounces Lemon Juice",
+                ".75 ounces Honey Syrup"],
+            "Instruction": "Shake for 10 seconds. Strain and Fine mesh strainer into glass.",
+            "garnish": "Lemon Twist "
+        },{
+            "id": 4,
+            "name": "Boulevardier",
+            "ingredients": [
+                "1 Ounce Bourbon Whiskey",
+                "1 Ounce Campari",
+                "1 Ounce Sweet Vermouth"],
+            "Instruction": "Put ice directly into a Rocks glass. Pour the Campari, Sweet Vermouth, and Gin into your Rocks glass. Use a stirring spoon and swivel for 10 seconds. Garnish with orange peel (optional). Enjoy your Boulevardier",
+            "garnish": "Orange Twist, Bordeaux cherry"
+        },{
+            "id": 5,
+            "name": "FIERY GINGER SOUR",
+            "ingredients": [
+                "2 OZ. TEQUILA",
+                "1 OZ. PINEAPPLE JUICE",
+                "1 OZ. LEMON JUICE",
+                "3/4 OZ. GINGER SYRUP",
+                "1 EGG WHITE",
+                "CANDIED GINGER"],
+            "Instruction": "Add all to your cocktail shaker with ice. Yes, that means separate your egg. Shake. Seriously, for like a full minute. That’s 60 nonstop seconds. It sucks, but it’s worth it when you drink it. Pour into your glass. Garnish with candied ginger. Smile thinking about Machu Picchu. Then remember you’re drinking fiery ginger. Some say, even better.",
+            "garnish": ""
+        },{
+            "id": 6,
+            "name": "French 75",
+            "ingredients": [
+                "2 OZ. GIN",
+                "1/2 OZ. LEMON JUICE",
+                "1 TSP. ULTRAFINE SUGAR",
+                "5 OZ. CHAMPAGNE"],
+            "Instruction": "Add the gin, lemon juice and sugar into your cocktail shaker with ice. Shake like you mean it (you want to chill it and dissolve that sugar, that's why we went ultrafine). Evenly pour into two champagne flutes. Top with chilled champagne. Garnish with lemon peel. Smile, drink and toast to good health.",
+            "garnish": "lemon peel"
+        },{
+            "id": 7,
+            "name": "HEMINGWAY DAIQUIRI",
+            "ingredients": [
+                "4 OZ. LIGHT RUM",
+                "1 1/2 OZ. FRESH LIME JUICE",
+                "1 OZ. FRESH GRAPEFRUIT JUICE",
+                "1 TSP SUGAR",
+                "2 TSP MARASCHINO LIQUEUR"],
+            "Instruction": "Add all of the ingredients to a cocktail shaker and fill with ice. Shake, then strain into a chilled cocktail glass.",
+            "garnish": ""
+        },{
+            "id": 8,
+            "name": "Irish Cocktail",
+            "ingredients": [
+                "4 OZ. IRISH WHISKEY",
+                "1/4 OZ. ABSINTHE",
+                "1/2 OZ. CURAÇAO",
+                "2 BARSPOONS MARASCHINO LIQUEUR",
+                "2 DASHES ANGOSTURA BITTERS"],
+            "Instruction": "Add the whiskey, absinthe, curacao, maraschino and bitters to your mixing glass with ice. Stir.",
+            "garnish": "Lemon Twist, Olive"
+        },{
+            "id": 9,
+            "name": "Income Tax",
+            "ingredients": [
+                "1 1/2 OZ. GIN",
+                "3/4 OZ. DRY VERMOUTH",
+                "3/4 OZ. SWEET VERMOUTH",
+                "3/4 OZ. FRESHLY SQUEEZED ORANGE JUICE",
+                "2 DASHES ANGOSTURA BITTERS"],
+            "Instruction": "Add everything to your shaker with ice. Shake. Pour into your coupe.",
+            "garnish": "Orange Twist"
+        },{
+            "id": 10,
+            "name": "Cardinale",
+            "ingredients": [
+                "1 1/3oz Dry Gin",
+                "1 1/3oz Red bitter",
+                "1 1/3oz Dry vermouth"
+                ],
+            "Instruction": "Stire all with ice and strian into ice-filled glass",
+            "garnish": "Orange slice"
+        },{
+            "id": 11,
+            "name": "Maon`o War",
+            "ingredients": [
+                "1 1/2oz Bourbon Whiskey",
+                "1/2oz Triple sec(40%)",
+                "1/2oz Sweet Vermouth",
+                "1/3oz Lemon juice",
+                "1/6oz Sugar syrup (2 sugar to 1 water)"
+                ],
+            "Instruction": "Shake all with ice and strian into chilled glass",
+            "garnish": "Lemon zest, Luxardo maraschino cherry"
+        },{
+            "id": 12,
+            "name": "Gold Rush",
+            "ingredients": [
+                "2oz Bourbon Whiskey",
+                "3/4oz Lime juice",
+                "3/4oz Honey syrup (3 honey to 1 water)"
+                ],
+            "Instruction": "Shake all with ice and fine strian into ice-filled glass",
+            "garnish": "Lemon zest twist, lime wedge"
+        },{
+            "id": 13,
+            "name": "Boston Sour",
+            "ingredients": [
+                "2oz Bourbon Whiskey",
+                "3/4oz Lemon juice",
+                "1/2oz Sugar syrup (2 sugar to 1 water)",
+                "1/2oz Egg white"
+                ],
+            "Instruction": "Shake all with ice and strain back into shaker. Shake without ice, then fine drain into chilled glass",
+            "garnish": "Lemon zest twist"
+        },{
+            "id": 14,
+            "name": "Bourbon Skin",
+            "ingredients": [
+                "2oz Bourbon Whiskey",
+                "3oz Boiling Water",
+                "1/4oz Sugar syrup (2 sugar to 1 water)"
+                ],
+            "Instruction": "Pour all ingredients into warmed glass and Stir",
+            "garnish": "Large orange zest twist"
+        },{
+            "id": 15,
+            "name": "Fancy Free",
+            "ingredients": [
+                "2oz Bourbon Whiskey",
+                "1/2oz Luxardo Maraschino liqueur",
+                "3dash Angosura Aromatic Bitters",
+                "2dash Orange Bitters by Angostura"
+                ],
+            "Instruction": "Stire all ingredients with ice. Strain into ice-filled glass. (block ice)",
+            "garnish": "Orange zest twist"
+        },{
+            "id": 16,
+            "name": "Inside Job Coktail",
+            "ingredients": [
+                "2oz Bourbon Whiskey",
+                "1/4oz Luxardo Maraschino liqueur",
+                "1/4oz Sugar syrup (2 sugar to 1 water)",
+                "1dash Angosura Aromatic Bitters"
+                ],
+            "Instruction": "Stir all ingredients into ice-filled glass.",
+            "garnish": "Orange wheel"
+        },{
+            "id": 17,
+            "name": "Mountain",
+            "ingredients": [
+                "2oz Bourbon Whiskey",
+                "3/4oz Dray Vermouth",
+                "3/4oz Sweet Vermouth",
+                "1/2oz Egg white"
+                ],
+            "Instruction": "Shake all. Fine strain into chilled glass.",
+            "garnish": "Luxardo cherry"
+        },{
+            "id": 18,
+            "name": "Whiskey Sour(Classic)",
+            "ingredients": [
+                "2oz Bourbon Whiskey",
+                "3/4oz Lemon juice",
+                "1oz Sugar syrup (2 sugar to 1 water)",
+                "3dash Angosura Aromatic Bitters",
+                "1/2oz Egg white"
+                ],
+            "Instruction": "Shake all. Strain into ice-filled glass.",
+            "garnish": "Lime slice, Luxardo cherry on stick."
+        },{
+            "id": 19,
+            "name": "Scofflaw",
+            "ingredients": [
+                "1 1/2oz Bourbon Whiskey",
+                "1 1/2oz Dry Vermouth",
+                "1/2oz Lemon Juice",
+                "1/4oz Giffard Grenadine syrup",
+                "1dash Angosura Aromatic Bitters"
+                ],
+            "Instruction": "Shake all. Fine strain into chilled glass.",
+            "garnish": "Lemon zest twist"
+        }
+    ]
+}
